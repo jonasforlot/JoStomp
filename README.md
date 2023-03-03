@@ -62,15 +62,15 @@ MIDI Channel configuration will be stored in EEPROM and will be loaded on restar
 
 Global budget : 20 € !
 
--Stomp case: e.g. Hammond 1590A
--3 momentary foot switches
--Arduino Pro Mini with programming headers populated (5V)
--MIDI/DIN Socket
--2,1 mm power Socket
--LED RGB
--5 x 220R resistors (5V version of Arduino)
--FTDI serial adaptor (for programming)
--diode IN4147
+- Stomp case: e.g. Hammond 1590A
+- 3 momentary foot switches
+- Arduino Pro Mini with programming headers populated (5V)
+- MIDI/DIN Socket
+- 2,1 mm power Socket
+- LED RGB
+- 5 x 220R resistors (5V version of Arduino)
+- FTDI serial adaptor (for programming)
+- Diode IN4147
 
 
 ![inventaire](images/inventaire.jpg)
@@ -118,7 +118,7 @@ Disconnect external power supply first! The FTDI adaptor will provide power.
 
 Hook up the FTDI adaptor to the Arduino board, select "Arduino Pro or Pro Mini" in your Arduino IDE, load the code, compile and upload.
 
-![testsoudures](images/testsoudures.jpg)
+![testsoudures](images/testsoudure.jpg)
 
 Enjoy !!!
 
