@@ -23,7 +23,7 @@ The JoStomp HX can
     
 ![pedalboard](images/pedalboard.jpg)
 
-## JoStomp Main Modes
+## JoStomp Modes
 
 | Mode |  LED  |
 |------|-----------------|
@@ -35,7 +35,7 @@ The JoStomp HX can
 To select a mode (snapshot or scroll presets), press and hold  button **2**
 
 
-### Using the Modes:
+## Using the Modes:
 | Mode |  Actions  |
 |------|-----------------|
 | SCROLL Mode |  <ul><li>buttons **1/3** : preset down/up</li><li>button **2** **long** : mode SNAPSHOT</li><li>buttons **1+3** **both long**: LOOPER mode</li></ul> | 
@@ -47,7 +47,7 @@ To select a mode (snapshot or scroll presets), press and hold  button **2**
 ![fonctionnement](images/fonctionnement.png)
 
 
-### Setting the MIDI Channel
+## Setting the MIDI Channel
 MIDI channel can be set to any value between 1 and 16. HX Stomp listens on channel 1 per default.
 
 To change the MIDI Channel:
@@ -57,7 +57,8 @@ oStomp    Press and hold button **1** while powering up the J. After a second th
     Press and hold up and dn to exit MIDI channel configuration.
 
 MIDI Channel configuration will be stored in EEPROM and will be loaded on restart.
-### Building JoStomp HX
+
+## List of components
 
 Global budget : 20 € !
 
@@ -74,7 +75,7 @@ Global budget : 20 € !
 
 ![inventaire](images/inventaire.jpg)
 
-## building MIDI Muppet
+## Drilling
 
 ![perçage](images/perçage.jpg)
 
@@ -91,13 +92,17 @@ Global budget : 20 € !
 | **9V** from Power socket (ext)|   **Arduino RAW** pin via diode (protection)|
 | **GND** from Power socket center|   **Arduino GNC** pin |
 
-schematic
+![schema](images/schema.png)
 
-Wiring
+![testsoudures](images/testsoudures.jpg)
 
-I put a little bit of capton tape on backside of a foot switch and on the the inside of the case for isolation and fixated the Arduino PCB with a little bit of hot snot.
+![cablage](images/cablage.jpg)
 
-Hot Snot
+## A nice little design ;)
+
+
+
+
 The Code
 
 The code requires the OneButton and the JC_Button library to be installed. The Arduino library manager will be your friend.
