@@ -1,20 +1,20 @@
 # JoStomp HX
-JoStomp HX
 
-This project is a mini midi controller for HX Stomp. It allows easy access to the 3 snapshots of a preset, while retaining the possibility of remaining in Footswitch mode on the HX. This offers many more possibilities than a double TRS footswitch.
-This pedal is uassi configured to scroll through the presets and provides access to a mini RC20 type looper.
 
-Jo Stomp HX
+This project is a mini midi controller for HX Stomp. It allows easy access to the 3 snapshots of a preset, while retaining the possibility of remaining in Footswitch mode on the HX. This offers many more possibilities et felxibility than a double TRS footswitch.
+This pedal is also configured to scroll through the presets and provides access to a mini RC20 type looper.
+
+![JoStomp HX](images/midi_muppet_hx.jpg)
 
 The JoStomp HX can
 
-    select the three snapshots
-    scroll up/down through presets 
-    act as a two button LOOPER controller
+- select the three snapshots
+- scroll up/down through presets 
+- act as a two button LOOPER controller
     
     ... and can do more if we want !
 
-MIDI Muppet Main Modes
+## MIDI Muppet Main Modes
 
 
 scroll preset: red, snapshot: green, looper: purple
