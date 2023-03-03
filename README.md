@@ -94,23 +94,31 @@ Global budget : 20 € !
 
 ![schema](images/schema.png)
 
-![testsoudures](images/testsoudures.jpg)
+
 
 ![cablage](images/cablage.jpg)
 
 ## A nice little design ;)
 
+![coté](images/pedale_côté_design.png)
+
+
+![design](images/pedale_design.png)
 
 
 
-The Code
+## Code Arduino
 
-The code requires the OneButton and the JC_Button library to be installed. The Arduino library manager will be your friend.
-Programming
+The code requires the OneButton and the JC_Button library to be installed. You can find them in the Arduino library manager.
+
+
+## Uploading the code 
 
 Disconnect external power supply first! The FTDI adaptor will provide power.
 
 Hook up the FTDI adaptor to the Arduino board, select "Arduino Pro or Pro Mini" in your Arduino IDE, load the code, compile and upload.
 
-The LED will flash rapidly on boot. Congratulations, you have just created a powerful controller for your HX Stomp. Have fun.
+![testsoudures](images/testsoudures.jpg)
+
+Enjoy !!!
 
