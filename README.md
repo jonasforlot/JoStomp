@@ -30,7 +30,7 @@ The JoStomp HX can
 |------|-----------------|
 | Snapshot| **Green** |
 | Scroll preset|  **Red** |
-| Looper  |   **Purple** ---------- **FEATURES** ->  Record : **flash red**  -----  Play : **green**  -----  Overdub : **yellow**|
+| Looper  |   **Purple** ----------> **FEATURES** ->  Record : **flash red**  -----  Play : **green**  -----  Overdub : **yellow**|
 
 
 To select a mode (snapshot or scroll presets), press and hold  button **2**
