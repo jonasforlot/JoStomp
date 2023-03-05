@@ -98,6 +98,8 @@ Global budget : 20 € !
 
 ![cablage](images/cablage.jpg)
 
+![midi](images/midi.jpg)
+
 ## A nice little design ;)
 
 ![coté](images/pedale_côté_design.png)
