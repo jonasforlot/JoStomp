@@ -102,7 +102,7 @@ Global budget : 20 € !
 
 ## A nice little design ;)
 
-![coté](images/pedale_côté_design.png)
+![coté](images/pedale_côté.png)
 
 
 ![design](images/pedale_design.png)
