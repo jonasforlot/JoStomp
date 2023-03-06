@@ -45,7 +45,7 @@ To select a mode (snapshot or scroll presets), press and hold  button **2**
   
                  
                  
-![fonctionnement](images/fonctionnement.png)
+![fonctionnement](images/fonctionnement_général.png)
 
 
 ## Setting the MIDI Channel
