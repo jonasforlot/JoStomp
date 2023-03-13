@@ -52,7 +52,7 @@ To select a mode (snapshot or scroll presets), press and hold  button **2**
 MIDI channel can be set to any value between 1 and 16. HX Stomp listens on channel 1 per default.
 
 To change the MIDI Channel:
-- Press and hold button **1** while powering up the J. After a second the device will indicate the currently set MIDI channel by slowly flashing the green LED (1 flash = channel 1, ..., 16 flashes = channel 16).
+- Press and hold button **1** while powering up the JoStomp. After a second the device will indicate the currently set MIDI channel by slowly flashing the green LED (1 flash = channel 1, ..., 16 flashes = channel 16).
 - Press up to increase the MIDI channel or press dn to decrease the channel.
 - Press and hold up and dn to exit MIDI channel configuration.
 
