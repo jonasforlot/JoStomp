@@ -14,7 +14,8 @@ I just customized this pedal by adding a button, then modified the code to suit 
 
 ![JoStomp HX](images/JoStomp.jpg)
 
-**DEMO VIDEO HERE** [![me](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com/watch?v=dttxhMk9ur8&t=41s)
+**DEMO VIDEO HERE**
+[![me](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com/watch?v=dttxhMk9ur8&t=41s)
 
 <a href="https://www.youtube.com/watch?v=dttxhMk9ur8&t=41s" target="_blank"><img src="https://i.ytimg.com/vi/dttxhMk9ur8/maxresdefault.jpg" 
 alt="DEMO VIDEO" width="720" height="420" border="10" /></a>
